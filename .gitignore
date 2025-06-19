@@ -89,7 +89,8 @@ out
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+# Project meant to be used as a library — must commit /dist
+# dist 
 
 # Gatsby files
 .cache/
